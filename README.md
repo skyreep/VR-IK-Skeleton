@@ -1,3 +1,3 @@
 # VR-IK-Skeleton
-## Rig Logic
-Inverse kinematics for virtual reality
+
+Inverse kinematic logic for virtual reality rigs. Designed for Oculus Quest but applicable to other platforms.
